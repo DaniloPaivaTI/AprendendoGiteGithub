@@ -12,3 +12,5 @@ Clonar: Pegar um repositório que está público, baixar ele para a máquina, on
 4 - Abrir em Github Desktop
 5 - Abrirá uma aba de qual Repositório vc ta clonando e para onde vai Clonar no seu computador.
 6 - Clicar em Clone.
+
+Ele irá Clonar tudo do repositório para o seu Computador, lhe dando acesso para você editar no VisualStudioCode.
