@@ -1,0 +1,14 @@
+1ª Coisa a fazer ao começar o dia, clicar no Cabeçalho, onde possui a opção,
+Fetch Origin: Verifica em que ponto está a versão do Software, verifica se está igual ao que está
+no computador. Caso não estejam iguais, acontecerá um Push ou um Pull.
+Push: Ele envia para o Repositório Remoto.
+Pull: Ele puxa para o Repositório Local.
+
+Clonar: Pegar um repositório que está público, baixar ele para a máquina, onde o Git fará o versionamento local.
+
+1 - Abrir o Repositório Público da pessoa.
+2 - Clicar em Clone or Download
+3 - Clicar em Open in Desktop
+4 - Abrir em Github Desktop
+5 - Abrirá uma aba de qual Repositório vc ta clonando e para onde vai Clonar no seu computador.
+6 - Clicar em Clone.
