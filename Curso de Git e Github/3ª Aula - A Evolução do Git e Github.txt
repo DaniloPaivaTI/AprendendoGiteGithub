@@ -1,0 +1,66 @@
+Um pouco de história...
+
+1985/ CVS - Sistema de Versões Concorrentes.
+           *Centralizado
+           *Open Source
+           *Mais Popular
+           *Alguns Problemas
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2000/ SVN - Subverzion
+           *Centralizado
+           *Open Source
+           *Ativo atéhoje
+           *CVS-Like -queria se parecer com o CVS. 
+(Veio para resolver alguns problemas do CVS)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2000/ BitKeeper - Veio para mudar os paradigmas.
+           *Distribuído
+           *Proprietário
+           *Versão Comunidade (Kernel do Linux era liberado pelo lado Comunitário. TRETA TRETA TRETA)
+           *CVS-Free (Totalmente diferente do CVS - SVN)
+
+2004/ BitKepper (TRETA)
+           *SourcePuller - Basicamente um Cliente de BitKeeper
+Um desenvolvedor, Utilizou, Engenharia Reversa, densenvolveu um cracker, Destravou recursos do BitKeeper Comunidade
+
+2005/ BitKeeper
+           *Foi criada uma Nova Licença do BitKeeper
+           *Bloqueava Acesso a Metadados
+           *Dificultava de ver o passado do programa.
+           *Só haverá acesso de comprar.
+           *O Criador do BitKeeper bloqueou o acesso do criados do Kernel do Linux, que era distribuido no BitKeeper Comunity,
+após essa briga após as invasões crackeamento do BitKeeper feita por outra pessoa. 
+           *O Criadordo Kernel do Linux criou uma nova VCS - chamada Git.
+
+2005/ Git 
+
+           *Distribuido.
+           *OpenSource
+           *feito em 10dias(em 10 Dias já havia uma versão usável, em 4 dias já havia uma versão Preliminar.)
+           *Performance
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+2008/ GitHub 
+
+           *Proprietário
+           *Hospedagem de Código
+           *Baseado em Git
+           *2009: 46K Repositórios
+           *2010: 100K Users/1M de Repositórios
+           *2011: Ultrapassou o SourceForge
+           *2013: 3M de Users/5M de Repositórios
+           *2016: 14º Lugar na Lista da Forbes
+           *2018: Maior ataque de DDoS da história. (1.35 Tb/s, maior ataque registrado na história.)
+           *2018: Microsoft compra o GitHub, U$7.5bi
+(Microsoft era a maiorcontribuidora do GitHub antes da compra)
+           Microsoft hospeda no GitHub opensource criadas por ela msm
+           *Powershell
+           *Nucleo Shakra(Maquina de JS)
+           *Visual Studio Code
+           *Terminal do Windows
+           *Operações Independentes
+           *2020: Github comprou NPM - Node Packet Manager (Gestor de Pacote feito em JavaScript utilizado no NodeJs)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Mascote do Github -  Foi criado pelo mesmo criador do Mascote do Twitter 
+O Mascote do Twitter é um Passáro que se chama Larry, em homenagem ao jogador de basket - Larry Bird.

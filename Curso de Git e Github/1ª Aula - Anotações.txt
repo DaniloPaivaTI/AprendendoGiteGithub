@@ -1,0 +1,11 @@
+Versionamento de Software***
+
+Git: Para Versionamento Local da nossa Máquina.
+Github:Para disponibilização dos nossos Códigos.
+Para que serve Git e Github;
+Git=/ Github são diferentes;
+
+Git = É um software de controle de versão = VCS;
+Github = Plataforma de Rede Social para Programadores;
+
+

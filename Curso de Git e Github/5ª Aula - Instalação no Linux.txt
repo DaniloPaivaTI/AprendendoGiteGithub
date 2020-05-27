@@ -1,0 +1,6 @@
+Acessar o Github/shifkey
+
+Repositório: desktop
+ Neste repositório estarão as versões para Debian, Rpm.
+
+Intalação Normal como as outras.

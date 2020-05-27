@@ -1,0 +1,30 @@
+Github - É um repositório remoto.
+
+Github - É uma plataforma social de programadores, podendo testar códigos dos outros, sugerir seu código a outros.
+Feito para demosntrar seu repositório até em Entrevistas de Emprego. Código Fonte do git está lá, Kernel do Linux tb está.
+
+Github - É basicamente uma RedeSocial.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+                                       Github
+
+*Plataforma Gratuita até certo ponto.
+*Repositório ilimitado.
+*Hospedagem de Código-Fonte.
+*Caracteristicas de Rede Social.
+*Github Pages Integrado
+*Colaboração
+*Forks (**)
+
+-------------------------------------------------------------------------------------------------------------------------------
+ 
+                                       Outros Repositórios Remoto
+
+*GitLab
+*Bitbucket
+*Phabricator
+*Gogs
+*Kallithea
+
+-------------------------------------------------------------------------------------------------------------------------------

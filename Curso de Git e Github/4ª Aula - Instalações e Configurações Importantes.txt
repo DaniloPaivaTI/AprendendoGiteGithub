@@ -1,0 +1,18 @@
+gitSCM - Source Code Managment - Gerenciamento de Código Fonte.
+gitHub Desktop
+GoogleChrome ou Edge
+VisualStudioCode
+
+?standslone=1 - baixa a versão standalone do Chrome escreve na barra de link
+
+Instala Git primeiro.
+ Marcar a caixa corretamente do editor que será vinculado com o Git
+
+
+Visual Studio Code
+ C, JavaScript, Python
+ baixar Pack de PT-br 
+ Salvar automaticamente
+ Pesquisar:
+Comumente Utilizado e modificar para afterDelay
+Word Wrap ativar.

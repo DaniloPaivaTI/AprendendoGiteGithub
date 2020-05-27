@@ -1,0 +1,36 @@
+O que é Versionamento = Versões
+ Git = é um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento.
+
+Exemplo: 
+  Se você tem um site para montar, você cria uma pasta guardando códigos, imagens, audios etc.
+Zipa está pasta, a partir do aval do deu contratante, agr você cria outro Zip e outro Zip, e +1
+criando várias versões de um arquivo zipado, é necessário que tenha um app que faça o VCS = Controle de Versões = Versionamento
+éo que o Git faz.
+
+
+                               Versionamento Centralizado/Linear = 1972
+Faz um commit e manda para um repositório central,tinha necessidade de estar Conectado sempre com o servidor.
+O que é commit = é o ato de enviar, ou seja, fazer um upload dos códigos para um banco de dados. 
+Colaboração com +1 pessoa, era através do Repositório Central.
+
+Ex App de Versionamento: CCC, SCCS, Panvalet, CVS, SVN, ClearCase, VisualSourceSafe, Perforce.
+
+                               Versionamento Distribuido
+Mudou com o passar dos tempos e nesse método de versionamento, você possui um repositório Local.
+Sem necessidade de estar conectado a ele.
+Colaboração com +1 pessoa, repositório remoto. (Tipo um Google Drive, ele vai possuir varias versões, VCS)
+Aqui há um Commit e um Push = Push pegar o versionamento que possuo na máquina e jogar no repositório remoto.
+
+Ex App de Versionamento: Mercurial, Bazaar, Code Co-op, GNU Arch, Monotone, Fossil, Bitkeeper, Git
+
+
+                                  Principais Vantagens
+
+*Controle de Histórico (Ver oq foi modificado, quando foi modificado, quem modificou)
+*Trabalho em Equipe
+*Ramificação de Projeto (Cria o Coração do Projeto e ramifica para Desgin, Back e Front end, dps juntar e fazer o Master,
+só permite oque a ramificação pede, nao consegue mudar outra ramificação)
+*Segurança
+*Organização 
+
+GIT = repositório local.
