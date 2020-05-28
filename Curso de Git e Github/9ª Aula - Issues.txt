@@ -1,0 +1,33 @@
+Issues são problemas que as pessoas encontraram num projeto.
+Issues pode ser tratada como:
+ - Gestor de Issues 
+ - Usuário de Issues.
+
+ Como Participar de Projetos através de Issues.
+
+1 - Abrir o repositório
+2 - Clicar em Issues
+3 - New Issue.
+4 - Colocar um Titulo, Descrição.
+5 - E as pessoas irão responder essa Issue, até haver uma resposta concreta.
+6 - O proprietário dessa Issue, poderá comentar e fechar essa Issue. 
+7 - Clicar em "Lock Conversation"
+   
+   A Issue ficará lá para ser vista caso haja o mesmo problema com outro usuário, para ajuda-lo a resolver.
+
+  Obs: **CRIAR UMA IMAGEM ASSINATURA PARA MIM **
+
+  Pinned Issues:
+  1 - Criar uma Issue
+  2 - Ir na parte Inferior direita, embaixo dos Participantes
+  3 - Clicar em "Pinned Issue" ele era destacar essa Issue;
+
+  Criar Respotas Salvas:(SAVED REPLY)
+  1 - Ir em "Settings" no canto superior direito na sua foto
+  2 - Clicar em "Saved Replies" nas categorias a Esquerda.
+  3 - Criar sua "Saved Replies"
+  4 - Clicar em "Preview" para ver como está.
+  5 - Clicar em "Add Saved Reply"
+  (Quando você cria um Saved Reply, em qualquer Issue que você comentar ela poderá ser comentada)
+  1 - Quando comentar clicar na seta, no lado direito superior.
+  2 - Selecionar o seu "Saved Reply"
