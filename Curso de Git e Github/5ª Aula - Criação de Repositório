@@ -7,3 +7,9 @@ Clicar em "Create a Repository" (Ficará salvo apenas no Repositório Local)
 Clicar em "Publish Repository" (Publicará no seu Repositório Remoto)
 Ali fica a opção de Repositório Privado ou Público.
 Clicar em "Publish Repository" novamente.
+
+Cada mudança feita nos arquivos.
+ 1 - Clicar em "Commit" ele vai commitar no Repositório Local.
+ 2 - Clicar em "Push Origin" ele irá enviar para o Repositório Remoto.
+ 3 - Para caso houve uma modificação no Repositório Remoto.
+ Clicar em "Pull Origin" ou "Feitch Origin" ele puxava do Repositório Remoto para o Repositório Local;
