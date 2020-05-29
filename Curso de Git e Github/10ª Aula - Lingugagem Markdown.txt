@@ -9,3 +9,9 @@ Aron Swartz e John Gruber - Criaram a Linguagem Markdown.
 
 *Porque Markdown foi criado se já existe HTML ?
 Markdown é outra linguagem de marcação, github é totalmente compátivel com Markdown.
+Markdown foi criado para facilitar o "ReadHability" do código, pois HTML era considerado dificil de se ler, segundo eles.
+  Utilizações de Markdown dentro do Github.
+*README.md
+*Issues
+*Pull Requests
+*Jupiter
