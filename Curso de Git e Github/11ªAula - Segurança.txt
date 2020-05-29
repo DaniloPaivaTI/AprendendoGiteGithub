@@ -1,0 +1,10 @@
+Autenticação de 2 Passos.
+1 - Setting
+2 - Security
+3 - Enable Two-Factor Authentication
+4 - Set Up Using an App
+5 - Download do Recovery Code
+6 - Save
+7 - Ler QRCode
+8 - Baixar o App "Authenticator" do Google
+9 - Código de 6 Digitos
