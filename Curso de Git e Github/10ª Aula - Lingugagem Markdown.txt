@@ -1,4 +1,5 @@
          Referências:
+estudonauta.com
 github.com/ikatyang - Repositório:emoji-cheat-sheet
 GitPro - Livro criado por um dos criadores do Github
 Conhecendo o Git - Eustáquio Rangel
