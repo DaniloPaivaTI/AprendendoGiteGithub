@@ -1,0 +1,11 @@
+         Referências:
+GitPro - Livro criado por um dos criadores do Github
+Conhecendo o Git - Eustáquio Rangel
+John Gruber - Podcast de Tecnologia
+------------------------------------------------------------------------------------------------------
+              Markdown
+
+Aron Swartz e John Gruber - Criaram a Linguagem Markdown.
+
+*Porque Markdown foi criado se já existe HTML ?
+Markdown é outra linguagem de marcação, github é totalmente compátivel com Markdown.
