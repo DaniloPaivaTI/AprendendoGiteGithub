@@ -1,4 +1,5 @@
          Referências:
+github.com/ikatyang - Repositório:emoji-cheat-sheet
 GitPro - Livro criado por um dos criadores do Github
 Conhecendo o Git - Eustáquio Rangel
 John Gruber - Podcast de Tecnologia
@@ -10,8 +11,41 @@ Aron Swartz e John Gruber - Criaram a Linguagem Markdown.
 *Porque Markdown foi criado se já existe HTML ?
 Markdown é outra linguagem de marcação, github é totalmente compátivel com Markdown.
 Markdown foi criado para facilitar o "ReadHability" do código, pois HTML era considerado dificil de se ler, segundo eles.
-  Utilizações de Markdown dentro do Github.
+  Utilizações de Markdown.
 *README.md
 *Issues
 *Pull Requests
 *Jupiter
+------------------------------------------------------------------------------------------------------
+    Cmds Markdonw.
+[Descrição do Link ou Imagem](Link da imagem ou um Link para redirecionar)
+**Ex** - Negrito ou __Ex__ - Negrito
+*Ex* - Itálico
+~Ex~ - Risca
+
+#Titulo - Titulo nv1
+##Titulo- Titulo nv2
+###Titulo - Titulo nv3
+
+*** ou --- - ele devide tópicos, fazendo uma linha embaixo do texto
+
+__* Ex*__ - Negrito e Itálico.
+
+1. - Ex - Lista Numerada.
+3 espaços + 1. - Lista Numeradaem romano.
+
+*Ex ou -Ex - Lista Demarcada.
+3 Espaços + * ou -Ex - Lista demarcada dentro de uma lista.
+
+-[] - lista de Tarefas.
+-[x] - Se for por tarefa concluída colcoar o X dentro que ele marca como concluído.
+
+Criar Tabelas:
+Ex1|Ex2|Ex3 - Os símbolos | eles criam tabelas.
+---|---|---
+Número|Nome|Nota - adiciona dentro da tabela.
+
+'Ex' - As Cráses são para por uma marcação cinza para destacar o código.
+
+: - sugere emoji.
+------------------------------------------------------------------------------------------------------
