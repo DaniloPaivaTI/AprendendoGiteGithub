@@ -15,4 +15,14 @@ Branch: FrontEnd
 Branch: Desing
  Cmd "Merge" - qnd houver os commits de cada equipe, o comando "Merge" ele de juntará na Branch Master.
  -----------------------------------------------------------------------------------------------------------
- 
+ Github Desktop criar Branche
+ 1 - Menu Branch
+ 2 - New Branch
+ 3 - Adc Nome da Branch
+ 4 - Selecionar a Bifurcação da Master
+ 5 - Publish 
+ -----------------------------------------------------------------------------------------------------------
+  Selecionar a Branch ao iniciar seu projeto.
+1 - Superior Esquerdo Github - Clicar em Branch
+2 - selecionar a sua Branch
+-----------------------------------------------------------------------------------------------------------
