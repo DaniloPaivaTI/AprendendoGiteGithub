@@ -26,4 +26,7 @@ Branch: Desing
 1 - Superior Esquerdo Github Dektop - Clicar em Branch
 2 - selecionar a sua Branch
 3 - Abrir o Visual Studio Code.
------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+ Para fazer um Merge
+1 - Seleciona a Branch Master
+2 - Clicar em Branch - "Merge into Current Branch" no Menu
