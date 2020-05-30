@@ -1,0 +1,18 @@
+Branches - Ramificações
+Branch Master = É o ramo principal.
+
+Evitar Commitar tudo na Branch Master.
+
+Ex: Montagem de um Site.
+ Qualquer feature nova, criar uma Branch nova, para organizar e não provocar um erro no Master.
+Merge = É o comando que faz a junção da Feature para o Branch Master.
+------------------------------------------------------------------------------------------------------------
+  O Uso das Branch é muito recomendado para uso em grupo, assim criando o Projeto Principal (Branch Master)
+com as Branch você pode dividir as tarefas de cada equipe, por exemplo:
+ Branche Master
+Branch: BackEnd
+Branch: FrontEnd
+Branch: Desing
+ Cmd "Merge" - qnd houver os commits de cada equipe, o comando "Merge" ele de juntará na Branch Master.
+ -----------------------------------------------------------------------------------------------------------
+ 
