@@ -23,6 +23,7 @@ Branch: Desing
  5 - Publish 
  -----------------------------------------------------------------------------------------------------------
   Selecionar a Branch ao iniciar seu projeto.
-1 - Superior Esquerdo Github - Clicar em Branch
+1 - Superior Esquerdo Github Dektop - Clicar em Branch
 2 - selecionar a sua Branch
+3 - Abrir o Visual Studio Code.
 -----------------------------------------------------------------------------------------------------------
