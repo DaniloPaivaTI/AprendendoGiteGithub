@@ -30,3 +30,4 @@ Branch: Desing
  Para fazer um Merge
 1 - Seleciona a Branch Master
 2 - Clicar em Branch - "Merge into Current Branch" no Menu
+3 - Selecionar a Branch que fará o Merge.
