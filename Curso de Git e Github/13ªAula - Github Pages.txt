@@ -1,0 +1,9 @@
+ctrl + Espaço = Ele abre um diretório para você puxar uma imagem ou vídeo.
+------------------------------------------------------------------------------------------------------------
+Como ativar o recurso do Github Pages
+1 - Selecionar o repositório
+2 - Clicar em "Settings"
+3 - Categoria Github Pages, clicar em em None em Source.
+4 - Seleciona o Repositório, master branch
+8 - Depois lhe estará disponivel, um dominío.
+------------------------------------------------------------------------------------------------------------
